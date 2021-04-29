@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerekeOcelot.Api", "PerekeOcelot.Api\PerekeOcelot.Api.csproj", "{966D271E-45C2-409A-8FE5-5B2DC121A535}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service1.Api", "Service1.Api\Service1.Api.csproj", "{24896703-38E9-4713-9F70-067076B06419}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service2.Api", "Service2.Api\Service2.Api.csproj", "{8BB60220-15FA-4BEA-A895-074D137D6C51}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{966D271E-45C2-409A-8FE5-5B2DC121A535}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{966D271E-45C2-409A-8FE5-5B2DC121A535}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{966D271E-45C2-409A-8FE5-5B2DC121A535}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24896703-38E9-4713-9F70-067076B06419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24896703-38E9-4713-9F70-067076B06419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24896703-38E9-4713-9F70-067076B06419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24896703-38E9-4713-9F70-067076B06419}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BB60220-15FA-4BEA-A895-074D137D6C51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BB60220-15FA-4BEA-A895-074D137D6C51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BB60220-15FA-4BEA-A895-074D137D6C51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BB60220-15FA-4BEA-A895-074D137D6C51}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
